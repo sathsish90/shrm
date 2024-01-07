@@ -1,0 +1,6 @@
+pandas
+twilio
+spacy
+nltk
+requests
+ipython
